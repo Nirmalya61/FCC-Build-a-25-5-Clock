@@ -273,9 +273,8 @@ class FccClock extends React.Component {
         </div>
       </div>
     );
-}
-}
   }
- <div class="footer">by <a href="https://chandan1961.w3spaces.com/index.html?bypass-cache=1638294204">Nirmalya Mukherjee</a></div>
+}
+
 ReactDOM.render(<FccClock />, document.getElementById("root"));
 //ReactDOM.render(<FccClock />, document.getElementById("root"));
