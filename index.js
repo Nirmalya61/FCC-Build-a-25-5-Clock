@@ -203,7 +203,7 @@ class FccClock extends React.Component {
       <div id="container">
         <div id="clock">
           <div id="title">
-            <h4>25+5 CLOCK</h4>
+            <h2>25+5 CLOCK</h2>
           </div>
           <div id="buttons">
             <div id="break-label">
